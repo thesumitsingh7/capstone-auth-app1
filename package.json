@@ -1,0 +1,23 @@
+{
+  "name": "capstone-auth-app",
+  "version": "1.0.0",
+  "description": "Task 04 Capstone — Full Stack Authenticated Web Application with Scoped User Data and SQLite Persistence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-auth-scope.js"
+  },
+  "keywords": [
+    "authentication",
+    "capstone",
+    "scrypt-hashing",
+    "scoped-data",
+    "sqlite",
+    "fullstack"
+  ],
+  "author": "Sumit Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
